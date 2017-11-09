@@ -1,9 +1,9 @@
 # Charcoal Team: Kids At Play
 - Author(s) / Team Members
-    - [Carie Ngo] (https://github.com/Moogieee "Carie Ngo") (Front-end / Design )
-    - [Ditas Fleck] (https://github.com/DAKINS1 "Ditas Fleck")(Front-end / Design)
-    - [Marwa Mahmoud] (https://github.com/Marwa-Mahmoud "Marwa Mahmoud") (Back-end / Data / User Login / Routing)
-    - [Erika Martinez] (https://github.com/erikamtnz13 "Erika Martinez") (Back-end / Data / User Login / Routing)
+    - [Carie Ngo](https://github.com/Moogieee "Carie Ngo") (Front-end / Design )
+    - [Ditas Fleck](https://github.com/DAKINS1 "Ditas Fleck")(Front-end / Design)
+    - [Marwa Mahmoud](https://github.com/Marwa-Mahmoud "Marwa Mahmoud") (Back-end / Data / User Login / Routing)
+    - [Erika Martinez](https://github.com/erikamtnz13 "Erika Martinez") (Back-end / Data / User Login / Routing)
 
 <br>
 
@@ -55,9 +55,9 @@ Source https://github.com/erikamtnz13/KidsAtPlay
 ## Tech/Frameworks Used
 
 - [Express](https://expressjs.com/ "express")
-- [Express-Passport] (https://www.npmjs.com/package/express-passport/ "passport")
-- [Mongoose] (http://mongoosejs.com/ "Mongoose")
-- [React] (https://reactjs.org/ "React")
+- [Express-Passport](https://www.npmjs.com/package/express-passport/ "passport")
+- [Mongoose](http://mongoosejs.com/ "Mongoose")
+- [React](https://reactjs.org/ "React")
 
 
 ---
